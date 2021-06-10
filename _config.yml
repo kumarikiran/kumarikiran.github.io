@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Kiran Kumari
 description: Polymer physics
+show_downloads: true
+google_analytics:
