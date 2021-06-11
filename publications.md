@@ -1,4 +1,4 @@
-## Invited Talks/Conferences
+## Peer reviewed journals
 
 - Mar, 2021 - name
 
