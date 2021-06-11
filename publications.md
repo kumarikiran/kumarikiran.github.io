@@ -10,13 +10,13 @@
 
 
 ## Selected Conferences
-• Statistical Mechanics of Soft Matter organized jointly by the Griffith University and the University of Queensland, Brisbane, Australia (held virtually) 14-15 December, 2020 (Talk).
+1. Statistical Mechanics of Soft Matter organized jointly by the Griffith University and the University of Queensland, Brisbane, Australia (held virtually) 14-15 December, 2020 (Talk).
 
-• 3D Genomics 2020: Interdisciplinary school in 3D genomics: from experiments to models and back, Lyon, France (held virtually) from 23-26 November 2020.
+2. 3D Genomics 2020: Interdisciplinary school in 3D genomics: from experiments to models and back, Lyon, France (held virtually) from 23-26 November 2020.
 
-• Biophysics Paschim, CSIR-NCL, Pune, India (held virtually) 3 October 2020 (Poster).
+3. Biophysics Paschim, CSIR-NCL, Pune, India (held virtually) 3 October 2020 (Poster).
 
-• EMBO Symposium: Regulatory epigenomics: From large data to useful models organized by IMSc Chennai, India from 10-13 March 2019 (Poster).
+4. EMBO Symposium: Regulatory epigenomics: From large data to useful models organized by IMSc Chennai, India from 10-13 March 2019 (Poster).
 
 • International Union of Theoretical and Applied Mechanics held at IIT Kanpur, India from 17-20 December 2018 (Poster).
 
