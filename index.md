@@ -2,7 +2,7 @@
 
 ## Welcome to Kiran's webpage
 
-I am a Postdoctoral Fellow at [Indian Institute of Technology Bombay, India.](https://www.iitb.ac.in)
+I am a Post-doctoral Fellow at [Indian Institute of Technology Bombay, India.](https://www.iitb.ac.in)
 
 I have received my PhD from [IITB-Monash Research Academy](https://www.iitbmonash.org), a joint PhD program with [Indian Institute of Technology Bombay, India](https://www.iitb.ac.in) and [Monash University, Australia.](https://www.monash.edu)
 
