@@ -6,8 +6,8 @@
 ### [](#header-3) PhD in Computational Biology (2016-2021)
 * [IITB-Monash Research Academy](https://www.iitbmonash.org)
   - Joint PhD program with IIT Bombay, India and Monash University, Australia
-	- Thesis: 
-	- Advisors: Prof. Ranjith Padinhateeri and Prof. Ravi Jagadeeshan.
+  - Thesis: 
+  - Advisors: Prof. Ranjith Padinhateeri and Prof. Ravi Jagadeeshan.
   
 
 ### [](#header-3) M.Tech in Chemical Engineering (2014-2016)
