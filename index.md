@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-![Kiran_photo.png]({{site.baseurl}}/Kiran_photo.png){:style="float: right;margin-left: 7px;margin-top: 7px;" :height="30%" width="100%"} 
+![Kiran_photo.jpeg]({{site.baseurl}}/Kiran_photo.jpeg){:style="float: right;margin-left: 7px;margin-top: 7px;" :height="30%" width="100%"} 
 
 
 
