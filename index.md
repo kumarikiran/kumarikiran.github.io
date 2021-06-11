@@ -16,7 +16,7 @@ I have been studying how chromatin is organized in 3D, using computer simulation
 
 2. K. Kumari, B. Duenweg, R. Padinhateeri, J. R. Prakash, Computing 3D chromatin configurations from contact probability maps by Inverse Brownian Dynamics, Biophys J. 118, 2193-2208 (2020), doi: 10.1016/j.bpj.2020.02.017. [link](https://www.sciencedirect.com/science/article/pii/S0006349520301661)
 
-3. L. Sreekumar, K. Kumari, A. Bakshi, N Varshney, Bhagya C., Thimmappa, K. Guin, L. Narlikar, R. Padinhateeri, R. Siddharthan, K. Sanyal, Orc4 spatiotemporally stabilizes centromeric chromatin, Genome Research, 31, 607-621 (2021), doi: 10.1101/gr.265900.120.
+3. L. Sreekumar, K. Kumari, A. Bakshi, N Varshney, Bhagya C., Thimmappa, K. Guin, L. Narlikar, R. Padinhateeri, R. Siddharthan, K. Sanyal, Orc4 spatiotemporally stabilizes centromeric chromatin, Genome Research, 31, 607-621 (2021), doi: 10.1101/gr.265900.120. [link](https://pubmed.ncbi.nlm.nih.gov/33514624/)
 
 4. A. Santra, K. Kumari, R. Padinhateeri, B. Duenweg, J. R. Prakash, Universality of the collapse transi- tion of sticky polymers, Soft Matter, 15, 7876-7887 (2019), doi: 10.1039/C9SM01361J.
 
