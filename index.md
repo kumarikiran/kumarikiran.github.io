@@ -1,11 +1,9 @@
----
-layout: default
-published: true
----
+
 
 ## Welcome to Kiran's webpage
 ![Kiran_photo.jpeg]({{site.baseurl}}/Kiran_photo.jpeg){:style="float: right;margin-left: 7px;margin-top: 7px;" :height="30%" width="90%"} 
 
+![Kiran_photo.jpeg]({{site.baseurl}}/Kiran_photo.jpeg)
 
 I am a PhD Student at the IIT Bombay Monash Research Academy, a joint PhD program with Indian Institute of Technology Bombay and Monash University
 
