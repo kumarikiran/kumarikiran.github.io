@@ -2,7 +2,7 @@
 
 ## Welcome to Kiran's webpage
 
-I am a Postdoctoral Fellow at Indian Institute of Bombay, India.
+I am a Postdoctoral Fellow at Indian Institute of Technology Bombay, India.
 
 I have received a PhD from IITB-Monash Research Academy, a joint PhD program with Indian Institute of Technology Bombay, India and Monash University, Australia.
 
