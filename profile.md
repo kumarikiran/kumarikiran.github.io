@@ -6,7 +6,7 @@
 ### [](#header-3) PhD in Computational Biology (2016-2021)
 * [IITB-Monash Research Academy](https://www.iitbmonash.org)
   - Joint PhD program with IIT Bombay, India and Monash University, Australia
-  - Thesis: 
+  - Thesis: [Computing the spatial organization and dynamics of chromatin domains](https://drive.google.com/file/d/1Ckb6cogPIhDdYzBNesbLzcde_d_tE3aT/view?usp=sharing) 
   - Advisors: Prof. Ranjith Padinhateeri and Prof. Ravi Jagadeeshan.
   
 
