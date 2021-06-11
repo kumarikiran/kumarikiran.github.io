@@ -4,7 +4,7 @@
 
 I am a Postdoctoral Fellow at Indian Institute of Technology Bombay, India.
 
-I have received a PhD from IITB-Monash Research Academy, a joint PhD program with Indian Institute of Technology Bombay, India and Monash University, Australia.
+I have received my PhD from IITB-Monash Research Academy, a joint PhD program with Indian Institute of Technology Bombay, India and Monash University, Australia.
 
 My research interests are in Polymer Physics and Chromatin Biology.
 
