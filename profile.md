@@ -1,7 +1,7 @@
 ## [](#header-2)Academic profile
 ### [](#header-3) Post-doctoral research (2021-present)
-* [School of Engineering and Applied Sciences, Harvard University.](http://www.seas.harvard.edu)
-	- [Physical Biology Lab](https://): **Prof. **
+* [Department of Biosciences and Bioengineering, IIT Bombay](https://www.bio.iitb.ac.in)
+	- [Physical Biology Lab](https://): **Prof. Ranjith Pahinhateeri**
 
 ### [](#header-3) PhD in Computational Biology (2016-2021)
 * [IITB-Monash Research Academy](https://www.iitbmonash.org)
