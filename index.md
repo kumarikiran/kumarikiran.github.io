@@ -10,7 +10,7 @@ My research interests are in Polymer Physics and Chromatin Biology.
 
 I have been studying how chromatin is organized in 3D, using computer simulations
 
-## My Publications
+## Selected Publications
 
 
 
