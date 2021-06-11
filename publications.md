@@ -18,10 +18,10 @@
 
 4. EMBO Symposium: Regulatory epigenomics: From large data to useful models organized by IMSc Chennai, India from 10-13 March 2019 (Poster).
 
-• International Union of Theoretical and Applied Mechanics held at IIT Kanpur, India from 17-20 December 2018 (Poster).
+5. International Union of Theoretical and Applied Mechanics held at IIT Kanpur, India from 17-20 December 2018 (Poster).
 
-• 7th Meeting of the Asian Forum of Chromosome and Chromatin Biology held at JNCASR, Bangalore, India from 15-17 November 2018 (Poster).
+6. 7th Meeting of the Asian Forum of Chromosome and Chromatin Biology held at JNCASR, Bangalore, India from 15-17 November 2018 (Poster).
 
-• Chemical Engineering Postgraduate Association conference held at Monash University, Australia on 26 October 2017. (Talk)
+7. Chemical Engineering Postgraduate Association conference held at Monash University, Australia on 26 October 2017. (Talk)
 
 [back](./)
