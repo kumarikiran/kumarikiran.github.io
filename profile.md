@@ -7,7 +7,7 @@
 * [IITB-Monash Research Academy](https://www.iitbmonash.org)
   - Joint PhD program with IIT Bombay, India and Monash University, Australia
   - Thesis: [Computing the spatial organization and dynamics of chromatin domains.](https://drive.google.com/file/d/1Ckb6cogPIhDdYzBNesbLzcde_d_tE3aT/view?usp=sharing) 
-  - Advisors: Prof. Ranjith Padinhateeri and Prof. Ravi Jagadeeshan.
+  - Advisors: Prof. Ranjith Padinhateeri and [Prof. Ravi Jagadeeshan](https://users.monash.edu.au/~rprakash/).
   
 
 ### [](#header-3) M.Tech in Chemical Engineering (2014-2016)
