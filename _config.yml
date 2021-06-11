@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kiran Kumari
 description: PhD, IITB-Monash Research Academy
-
+logo: true
 show_downloads: true
 google_analytics:
