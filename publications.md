@@ -9,7 +9,19 @@
 4. A. Santra, **K. Kumari**, R. Padinhateeri, B. Duenweg, J. R. Prakash, Universality of the collapse transi- tion of sticky polymers, Soft Matter, 15, 7876-7887 (2019), doi: 10.1039/C9SM01361J. [link](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01361j#!divAbstract)
 
 
-## Conferences
+## Selected Conferences
+• Statistical Mechanics of Soft Matter organized jointly by the Griffith University and the University of Queensland, Brisbane, Australia (held virtually) 14-15 December, 2020 (Talk).
 
+• 3D Genomics 2020: Interdisciplinary school in 3D genomics: from experiments to models and back, Lyon, France (held virtually) from 23-26 November 2020.
+
+• Biophysics Paschim, CSIR-NCL, Pune, India (held virtually) 3 October 2020 (Poster).
+
+• EMBO Symposium: Regulatory epigenomics: From large data to useful models organized by IMSc Chennai, India from 10-13 March 2019 (Poster).
+
+• International Union of Theoretical and Applied Mechanics held at IIT Kanpur, India from 17-20 December 2018 (Poster).
+
+• 7th Meeting of the Asian Forum of Chromosome and Chromatin Biology held at JNCASR, Bangalore, India from 15-17 November 2018 (Poster).
+
+• Chemical Engineering Postgraduate Association conference held at Monash University, Australia on 26 October 2017. (Talk)
 
 [back](./)
