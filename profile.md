@@ -1,7 +1,4 @@
 ## [](#header-2)Academic profile
-### [](#header-3) Post-Doctoral Fellow (2021-present)
-* [Department of Biosciences and Bioengineering, IIT Bombay](https://www.bio.iitb.ac.in)
-	- Physical Biology Lab: Prof. Ranjith Pahinhateeri
 
 ### [](#header-3) PhD in Computational Biology (2016-2021)
 * [IITB-Monash Research Academy](https://www.iitbmonash.org)
