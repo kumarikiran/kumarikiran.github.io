@@ -3,7 +3,7 @@
 ## Welcome to Kiran's webpage
 
 
-I have completed my PhD from [IITB-Monash Research Academy](https://www.iitbmonash.org), a joint PhD program with [Indian Institute of Technology Bombay, India](https://www.iitb.ac.in) and [Monash University, Australia.](https://www.monash.edu)
+I am a PhD candidate at [IITB-Monash Research Academy](https://www.iitbmonash.org), a joint PhD program with [Indian Institute of Technology Bombay, India](https://www.iitb.ac.in) and [Monash University, Australia.](https://www.monash.edu)
 
 My research interests are in Polymer Physics and Chromatin Biology.
 
