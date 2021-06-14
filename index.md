@@ -9,7 +9,7 @@ My research interests are in Polymer Physics and Chromatin Biology.
 
 I have been studying how chromatin is organized in 3D, using computer simulations
 
-## Selected Publications
+## Publications
 
 1. **K. Kumari**, J. R. Prakash, R. Padinhateeri, Spatiotemporal organization of chromatin domains: role of interaction energy and polymer entropy (under review), bioRxiv (2021), doi: 10.1101/2021.02.17.431616. [link](https://www.biorxiv.org/content/10.1101/2021.02.17.431616v2)
 
