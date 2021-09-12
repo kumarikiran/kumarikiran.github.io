@@ -2,7 +2,7 @@
 
 ## Welcome to Kiran's webpage
 
-I am a Post-doctoral fellow at [Univertsity of Texas at Austin](https://www.utexas.edu) working in [Prof. Dave Thirumalai's lab](https://sites.cns.utexas.edu/thirumalai/biography. 
+I am a Post-doctoral fellow at [Univertsity of Texas at Austin](https://www.utexas.edu) working in [Prof. Dave Thirumalai's lab](https://sites.cns.utexas.edu/thirumalai/biography). 
 I have completed my PhD from [IITB-Monash Research Academy](https://www.iitbmonash.org), a joint PhD program with [Indian Institute of Technology Bombay, India](https://www.iitb.ac.in) and [Monash University, Australia.](https://www.monash.edu). 
 
 My research interests are in Polymer Physics and Chromatin Biology.
