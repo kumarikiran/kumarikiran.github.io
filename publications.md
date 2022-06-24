@@ -1,6 +1,6 @@
 ## Peer reviewed journals
 
-1. **K. Kumari**, J. R. Prakash, R. Padinhateeri, Spatiotemporal organization of chromatin domains: role of interaction energy and polymer entropy (under review), bioRxiv (2021), doi: 10.1101/2021.02.17.431616. [link](https://www.biorxiv.org/content/10.1101/2021.02.17.431616v2)
+1. **K. Kumari**, J. R. Prakash, R. Padinhateeri, Heterogeneous interactions and polymer entropy decide organization and dynamics of chromatin domains, Biophysical Journal 121, 1-19, (2022) [link](https://www.sciencedirect.com/science/article/pii/S0006349522004672?via%3Dihub)
 
 2. **K. Kumari**, B. Duenweg, R. Padinhateeri, J. R. Prakash, Computing 3D chromatin configurations from contact probability maps by Inverse Brownian Dynamics, Biophys J. 118, 2193-2208 (2020), doi: 10.1016/j.bpj.2020.02.017. [link](https://www.sciencedirect.com/science/article/pii/S0006349520301661)
 
